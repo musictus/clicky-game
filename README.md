@@ -1,11 +1,8 @@
-# Memory Challenge Game
+# Memory Game
 
 ## Overview
-This app is the memory game with React. This app is built with application UI's breakup into components, 
-manage component state, respond to user events.
-
-This app will display images to the screen. Each image will listen to click events. 
-Everytime an image is clicked, images will shuffle randomly and display to screen.
-The app also keeps track of current scrore, top score. The top score will be replaced
-by current score if current score is higher than top score.
-User can restart game by clicking "Start Over" button. The app will reset all scores and message to initial values.
+This is a memory game with React:
+- Click on images and try to avoid clicking on the same image again
+- Once clicked, all images will be shuffled randomly again
+- Track you current scrore and top score
+- Restart game by clicking "Start Over" button
